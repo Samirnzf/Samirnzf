@@ -32,3 +32,12 @@
 
 <br />
 <br />
+
+---
+
+<summary>:zap: GitHub Stats</summary>
+
+<div>
+  <img height="160" align="left" alt="Samir's GitHub Stats" src="![Samirnzf's Stats](https://github-readme-stats.vercel.app/api?username=Samirnzf&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)" />
+  <img height="160" src="![Samirnzf's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samirnzf&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)" />
+</div>
