@@ -37,3 +37,7 @@
   <img height="160" align="left" alt="Samir's GitHub Stats" src="https://github-readme-stats-ni2i.vercel.app/api?username=samirnzf&show_icons=true&hide_border=true&theme=github_dark" />
   <img height="160" src="https://github-readme-stats-ni2i.vercel.app/api/top-langs/?username=samirnzf&layout=compact&hide_border=true&theme=github_dark" />
 </div>
+<div>
+  <img height="160" src="https://github-readme-stats-ni2i.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d" />
+
+</div>
