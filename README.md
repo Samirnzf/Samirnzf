@@ -39,4 +39,5 @@
 
 <div>
   <img height="160" align="left" alt="Samir's GitHub Stats" src="https://github-readme-stats-ni2i.vercel.app/api?username=samirnzf&show_icons=true&theme=monokai" />
+  <img height="160" src="https://github-readme-stats-ni2i.vercel.app/api/top-langs/?username=samirnzf&hide_progress=true&theme=monokai" />
 </div>
