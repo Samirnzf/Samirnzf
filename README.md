@@ -38,5 +38,5 @@
 <summary>:zap: GitHub Stats</summary>
 
 <div>
-  <img height="160" align="left" alt="Samir's GitHub Stats" src="![Samirnzf's Stats](https://github-readme-stats.vercel.app/api?username=samirnzf&show_icons=true&theme=monokai)" />
+  <img height="160" align="left" alt="Samir's GitHub Stats" src="![Samirnzf's Stats]https://github-readme-stats.vercel.app/api?username=samirnzf)](https://github.com/samirnzf/github-readme-stats)" />
 </div>
