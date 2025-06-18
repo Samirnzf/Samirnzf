@@ -9,7 +9,7 @@
 ### Connect with me:
 
 [<img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" width="26px" style="padding-right:50px">](https://www.instagram.com/sami.nzf/?hl=bg)
-[<img src="icons/LinkedIn.svg" alt="linkedin" width="26px">]([https://www.linkedin.com/in/samir-nazif-06b2a9314/])
+[<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="linkedin" width="26px">]([https://www.linkedin.com/in/samir-nazif-06b2a9314/])
 
 ---
 
@@ -32,12 +32,3 @@
 
 <br />
 <br />
-
----
-
-<summary>:zap: GitHub Stats</summary>
-
-<div>
-  <img height="160" align="left" alt="Samir's GitHub Stats" src="![Samirnzf's Stats](https://github-readme-stats.vercel.app/api?username=Samirnzf&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)" />
-  <img height="160" src="![Samirnzf's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samirnzf&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)" />
-</div>
