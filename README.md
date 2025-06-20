@@ -1,8 +1,8 @@
-# Hi there, I'm Samir 👋 
+# Hi there, I'm Samir Nazif 👋 
 
 ## I'm a Junior Python Developer
 
-- 💻 I’m a student at **SoftUni**, currently enrolled in the **Python Web Developer** track
+- 💻 Student at **SoftUni**, currently enrolled in the **Python Web Developer** track
 
 ---
 
