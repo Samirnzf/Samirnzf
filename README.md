@@ -2,7 +2,10 @@
 
 ## I'm a Junior Python Developer
 
-- 💻 Student at **SoftUni**, currently enrolled in the **Python Web Developer** track
+- 🎓 I'm currently studying Python Web Development at [**SoftUni**](https://softuni.bg/)  
+- 💻 Learning by building — Python, Django, HTML5, CSS3, JavaScript, SQL  
+- 🚀 Passionate about creating clean, functional web apps  
+- 📈 Always leveling up, one project at a time
 
 ---
 
