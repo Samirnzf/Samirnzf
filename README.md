@@ -12,8 +12,8 @@
 ### Connect with me:
 
 [<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="linkedin" width="26px">](https://www.linkedin.com/in/samir-nazif/)
-[<img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" width="26px" style="padding-right:50px">](https://www.instagram.com/sami.nzf/?hl=bg)
 [<img src="https://github.com/CLorant/readme-social-icons/blob/main/large/colored/facebook.svg" alt="facebook" width="26px">](https://www.facebook.com/profile.php?id=100017434925062)
+[<img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" width="26px" style="padding-right:50px">](https://www.instagram.com/sami.nzf/?hl=bg)
 
 ---
 
